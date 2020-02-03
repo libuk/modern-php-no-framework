@@ -1,6 +1,9 @@
 # Modern PHP with no framework
 
-I'm currently learning PHP out in the open and used this [post](https://kevinsmith.io/modern-php-without-a-framework) as a starting to point and jumped in. I'm making notes as I go which you can find [here](https://www.notion.so/Modern-PHP-Tutorial-069bd214c9b94351b7b229e5ab647737).
+I'm currently learning PHP out in the open and used this [post](https://kevinsmith.io/modern-php-without-a-framework) as a starting to point and jumped in. I'm making notes:
+
+- [Tutorial notes](https://www.notion.so/Modern-PHP-Tutorial-069bd214c9b94351b7b229e5ab647737)
+- [PHP general notes](https://www.notion.so/Fundamentals-09b15a1962d04c39a898a290e4ca69f4)
 
 ## Dependencies
 
