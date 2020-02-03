@@ -8,7 +8,11 @@
     }
   ],
   "require": {
-    "php-di/php-di": "^6.0"
+    "php-di/php-di": "^6.0",
+    "relay/relay": "^2.0",
+    "zendframework/zend-diactoros": "^2.2",
+    "middlewares/fast-route": "^1.2",
+    "middlewares/request-handler": "^1.4"
   },
   "autoload": {
     "psr-4": {
