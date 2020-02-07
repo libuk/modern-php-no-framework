@@ -27,3 +27,10 @@ php -S localhost:8080 -t public/
 Visit `localhost:8080` in the browser of your choice.
 
 Have a nosey about the code. Have fun 👍🏾
+
+## Next steps
+
+- [ ] Move container definitions into it's own file
+- [ ] Move route definitions into it's own file
+- [ ] Add another route that responds with json
+- [ ] Update abandoned `Zend\Diactoros` dependency
